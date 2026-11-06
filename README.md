@@ -1,4 +1,5 @@
-Ich habe an der **42 Vienna** eine Ausbildung gemacht und dort im Core Curriculum Projekte in C unter Linux umgesetzt.
+Ich studiere seit 09/2026 Informations- und Kommunikationssysteme an der **FH Technikum Wien**.
+Davor habe ich an der **42 Vienna** eine Ausbildung gemacht und dort im Core Curriculum Projekte in C unter Linux umgesetzt.
 Zusätzlich habe ich ein eigenes SOC-Homelab aufgebaut, um Security Monitoring praktisch kennenzulernen.
 
 ### Projekte
